@@ -37,8 +37,6 @@ Here's a preview of **NavIndia** in action:
 
 ![WhatsApp Image 2024-10-22 at 20 07 31_3f1acecb](https://github.com/user-attachments/assets/7b1d5a39-e93a-46d7-ae4a-3f9a47c0a95f)
 
-)
-)
 
 
 ## Contributing
