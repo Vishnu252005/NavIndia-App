@@ -1,40 +1,41 @@
-# Bus Watch 🚌
+Here's an updated version of your project description with the requested changes:
 
-Bus Watch is a mobile application built using Flutter, designed to track the bus timings of private buses in Kerala, India. It utilizes an API developed by Amith and their team, along with a dataset also created by Amith.
+---
+
+# NavIndia 🚌
+
+**NavIndia** is a mobile application built using Flutter, designed for bus tracking across India. The app is currently under development, created by **Vishnu**, with the goal of providing real-time bus timings and tracking for all buses in India.
 
 ## Getting Started
 
-To get started with N Square Media Bot 🤖, follow these steps:
+To get started with **NavIndia**, follow these steps:
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Nishmakv/bus-watch.git
-
 ```
+
 ### 2. Navigate to the project directory:
-```
-cd Bus-Watch
 
+```bash
+cd Bus-Watch
 ```
+
 ### 3. Install dependencies:
 
-```
+```bash
 flutter pub get
 ```
 
-### 4. Run the app
-```
+### 4. Run the app:
+
+```bash
 flutter run
 ```
 
-## API Information
-
-- API Repository: [Kerala Private Bus Timing API](https://github.com/amith-vp/Kerala-Private-Bus-Timing-API)
-
-- Dataset Repository: [Kerala Private Bus Timing Dataset](https://github.com/amith-vp/Kerala-Private-Bus-Timing)
-
 ## Contributing
-Contributions are welcome! If you have any ideas for improving the bot or implementing new features, feel free to submit a pull request.
 
+Contributions are welcome! If you have any ideas for improving **NavIndia** or implementing new features, feel free to submit a pull request.
 
+---
