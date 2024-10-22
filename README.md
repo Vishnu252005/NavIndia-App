@@ -31,6 +31,13 @@ flutter pub get
 flutter run
 ```
 
+## Screenshot
+
+Here's a preview of **NavIndia** in action:
+
+![App Screenshot]()
+
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improving **NavIndia** or implementing new features, feel free to submit a pull request.
