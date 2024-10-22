@@ -10,13 +10,13 @@ To get started with **NavIndia**, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Nishmakv/bus-watch.git
+git clone https://github.com/Vishnu252005/NavIndia-App.git
 ```
 
 ### 2. Navigate to the project directory:
 
 ```bash
-cd Bus-Watch
+cd NavIndia-App
 ```
 
 ### 3. Install dependencies:
@@ -35,7 +35,8 @@ flutter run
 
 Here's a preview of **NavIndia** in action:
 
-![App Screenshot]()
+![App Screenshot](![image](https://github.com/user-attachments/assets/c06f8288-8b1d-45c6-b7fd-3e49ba59b882)
+)
 
 
 ## Contributing
