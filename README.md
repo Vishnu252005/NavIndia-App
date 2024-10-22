@@ -35,7 +35,8 @@ flutter run
 
 Here's a preview of **NavIndia** in action:
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/c06f8288-8b1d-45c6-b7fd-3e49ba59b882)
+![WhatsApp Image 2024-10-22 at 20 07 31_3f1acecb](https://github.com/user-attachments/assets/7b1d5a39-e93a-46d7-ae4a-3f9a47c0a95f)
+
 )
 )
 
