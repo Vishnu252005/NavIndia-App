@@ -1,6 +1,3 @@
-Here's an updated version of your project description with the requested changes:
-
----
 
 # NavIndia 🚌
 
@@ -38,4 +35,3 @@ flutter run
 
 Contributions are welcome! If you have any ideas for improving **NavIndia** or implementing new features, feel free to submit a pull request.
 
----
